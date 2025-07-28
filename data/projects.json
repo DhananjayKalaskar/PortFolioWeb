@@ -1,0 +1,207 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Quantum Realms VR",
+      "shortDescription": "An immersive VR experience that takes players through different quantum dimensions. Built with advanced physics simulation and spatial audio.",
+      "detailedDescription": "Quantum Realms VR is a groundbreaking virtual reality experience that combines cutting-edge physics simulation with immersive storytelling. Players navigate through multiple quantum dimensions, each with unique physical properties and visual aesthetics. The project features advanced particle systems, real-time ray tracing, and spatial audio that responds to quantum field fluctuations.",
+      "technologies": ["Unity 3D", "C#", "OpenXR", "HLSL", "Blender"],
+      "techDetails": {
+        "Unity 3D": "Core engine for VR development and physics simulation",
+        "C#": "Primary scripting language for game logic and VR interactions",
+        "OpenXR": "Cross-platform VR standard for device compatibility",
+        "HLSL": "Custom shaders for quantum visual effects",
+        "Blender": "3D modeling and animation for quantum environments"
+      },
+      "type": "VR Experience",
+      "image": "/placeholder.svg?height=300&width=500&text=Quantum+Realms+VR",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Quantum+Dimension+1",
+        "/placeholder.svg?height=400&width=600&text=Particle+Physics+System",
+        "/placeholder.svg?height=400&width=600&text=VR+Interface+Design",
+        "/placeholder.svg?height=400&width=600&text=Quantum+Portal+Effect"
+      ],
+      "status": "Released",
+      "year": "2024",
+      "duration": "8 months",
+      "team": "Solo Developer",
+      "challenges": [
+        "Implementing realistic quantum physics simulation in real-time",
+        "Optimizing performance for VR while maintaining visual fidelity",
+        "Creating intuitive VR interactions for complex quantum mechanics"
+      ],
+      "achievements": [
+        "Featured in VR Showcase 2024",
+        "95% positive user reviews",
+        "Downloaded by 50,000+ users",
+        "Winner of Indie VR Game of the Year"
+      ],
+      "links": {
+        "demo": "https://example.com/quantum-realms-demo",
+        "github": "https://github.com/alexchen/quantum-realms",
+        "store": "https://store.steampowered.com/quantum-realms"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Neon Runner",
+      "shortDescription": "A fast-paced cyberpunk endless runner with procedural level generation and dynamic lighting effects.",
+      "detailedDescription": "Neon Runner combines the thrill of endless running with a cyberpunk aesthetic and advanced procedural generation. The game features dynamic lighting systems that react to player actions, procedurally generated levels that ensure no two runs are the same, and a progression system that unlocks new abilities and visual effects. The game's shader work creates a distinctive neon-soaked visual style that immerses players in a futuristic cityscape.",
+      "technologies": ["Unity 3D", "C#", "Shader Graph", "ProBuilder"],
+      "techDetails": {
+        "Unity 3D": "Game engine with advanced rendering pipeline",
+        "C#": "Core gameplay programming and procedural generation",
+        "Shader Graph": "Visual shader editor for neon effects and lighting",
+        "ProBuilder": "Level design and rapid prototyping tool"
+      },
+      "type": "Mobile Game",
+      "image": "/placeholder.svg?height=300&width=500&text=Neon+Runner",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Cyberpunk+City",
+        "/placeholder.svg?height=400&width=600&text=Neon+Effects",
+        "/placeholder.svg?height=400&width=600&text=Character+Abilities",
+        "/placeholder.svg?height=400&width=600&text=Procedural+Levels"
+      ],
+      "status": "In Development",
+      "year": "2024",
+      "duration": "6 months (ongoing)",
+      "team": "Solo Developer + 1 Artist",
+      "challenges": [
+        "Balancing procedural generation with engaging level design",
+        "Optimizing complex shaders for mobile devices",
+        "Creating smooth 60fps gameplay on various mobile hardware"
+      ],
+      "achievements": [
+        "Alpha testing with 1,000+ users",
+        "Featured in Unity Showcase",
+        "90% retention rate in alpha testing"
+      ],
+      "links": {
+        "github": "https://github.com/alexchen/neon-runner",
+        "devlog": "https://blog.alexchen.dev/neon-runner"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Medieval VR Forge",
+      "shortDescription": "A VR blacksmithing simulator with realistic physics and haptic feedback. Players can craft weapons and tools in a medieval setting.",
+      "detailedDescription": "Medieval VR Forge offers an authentic blacksmithing experience in virtual reality, complete with realistic metal physics, temperature simulation, and haptic feedback. Players heat metal in a forge, shape it with hammers and anvils, and quench it in water to create medieval weapons and tools. The game features a comprehensive crafting system with over 100 different items to create, each requiring specific techniques and timing.",
+      "technologies": ["Unity 3D", "C#", "XR Toolkit", "Haptic SDK"],
+      "techDetails": {
+        "Unity 3D": "VR development with advanced physics simulation",
+        "C#": "Crafting system and VR interaction programming",
+        "XR Toolkit": "Cross-platform VR input and interaction system",
+        "Haptic SDK": "Force feedback integration for realistic tool handling"
+      },
+      "type": "VR Simulation",
+      "image": "/placeholder.svg?height=300&width=500&text=Medieval+VR+Forge",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Blacksmith+Workshop",
+        "/placeholder.svg?height=400&width=600&text=Forge+Fire+Effects",
+        "/placeholder.svg?height=400&width=600&text=Weapon+Crafting",
+        "/placeholder.svg?height=400&width=600&text=Tool+Collection"
+      ],
+      "status": "Released",
+      "year": "2023",
+      "duration": "10 months",
+      "team": "2 Developers + 1 3D Artist",
+      "challenges": [
+        "Simulating realistic metal heating and cooling physics",
+        "Implementing precise haptic feedback for different materials",
+        "Creating intuitive VR controls for complex crafting actions"
+      ],
+      "achievements": [
+        "Steam rating: 4.8/5 stars",
+        "100,000+ copies sold",
+        "Featured in VR Education Summit",
+        "Used in 50+ educational institutions"
+      ],
+      "links": {
+        "store": "https://store.steampowered.com/medieval-vr-forge",
+        "trailer": "https://youtube.com/watch?v=medieval-forge-trailer"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Space Colony Builder",
+      "shortDescription": "A strategic colony management game set on Mars. Features complex resource management and environmental challenges.",
+      "detailedDescription": "Space Colony Builder challenges players to establish and maintain a thriving colony on Mars. The game features complex resource management systems, environmental hazards like dust storms and equipment failures, and a tech tree that spans from basic survival to advanced terraforming. Players must balance power generation, life support, food production, and colonist happiness while expanding their base and conducting scientific research.",
+      "technologies": ["Unity 3D", "C#", "DOTween", "TextMeshPro"],
+      "techDetails": {
+        "Unity 3D": "Game engine with custom UI systems",
+        "C#": "Complex simulation and management systems",
+        "DOTween": "Smooth UI animations and transitions",
+        "TextMeshPro": "Advanced text rendering for UI elements"
+      },
+      "type": "Strategy Game",
+      "image": "/placeholder.svg?height=300&width=500&text=Space+Colony+Builder",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Mars+Colony+Base",
+        "/placeholder.svg?height=400&width=600&text=Resource+Management+UI",
+        "/placeholder.svg?height=400&width=600&text=Research+Tree",
+        "/placeholder.svg?height=400&width=600&text=Environmental+Hazards"
+      ],
+      "status": "Released",
+      "year": "2023",
+      "duration": "12 months",
+      "team": "3 Developers + 2 Artists + 1 Designer",
+      "challenges": [
+        "Balancing complex interconnected systems",
+        "Creating engaging progression over long play sessions",
+        "Optimizing simulation performance for large colonies"
+      ],
+      "achievements": [
+        "250,000+ copies sold across platforms",
+        "Metacritic score: 85/100",
+        "Nominated for Best Strategy Game 2023",
+        "Active modding community with 500+ mods"
+      ],
+      "links": {
+        "store": "https://store.steampowered.com/space-colony-builder",
+        "github": "https://github.com/alexchen/space-colony-builder",
+        "wiki": "https://wiki.spacecolonybuilder.com"
+      }
+    },
+    {
+      "id": 5,
+      "title": "AR Furniture Visualizer",
+      "shortDescription": "An augmented reality app that allows users to visualize furniture in their real environment before purchasing.",
+      "detailedDescription": "AR Furniture Visualizer revolutionizes online furniture shopping by allowing customers to place 3D furniture models in their real environment using augmented reality. The app features accurate scale detection, realistic lighting and shadows, and a comprehensive catalog of furniture from major retailers. Users can save room configurations, share them with others, and make informed purchasing decisions.",
+      "technologies": ["Unity 3D", "ARCore", "ARKit", "C#"],
+      "techDetails": {
+        "Unity 3D": "AR development platform with advanced rendering",
+        "ARCore": "Android AR framework for plane detection and tracking",
+        "ARKit": "iOS AR framework for advanced scene understanding",
+        "C#": "App logic and AR interaction programming"
+      },
+      "type": "AR Application",
+      "image": "/placeholder.svg?height=300&width=500&text=AR+Furniture+Visualizer",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Living+Room+AR",
+        "/placeholder.svg?height=400&width=600&text=Furniture+Catalog",
+        "/placeholder.svg?height=400&width=600&text=Scale+Detection",
+        "/placeholder.svg?height=400&width=600&text=Lighting+Simulation"
+      ],
+      "status": "Released",
+      "year": "2022",
+      "duration": "6 months",
+      "team": "2 Developers + 1 UI Designer",
+      "challenges": [
+        "Achieving accurate scale and positioning in AR",
+        "Optimizing 3D models for mobile AR performance",
+        "Creating intuitive AR interaction patterns"
+      ],
+      "achievements": [
+        "1M+ downloads across iOS and Android",
+        "4.6/5 app store rating",
+        "Partnership with 20+ furniture retailers",
+        "Featured in Apple's AR showcase"
+      ],
+      "links": {
+        "appstore": "https://apps.apple.com/ar-furniture-visualizer",
+        "playstore": "https://play.google.com/ar-furniture-visualizer",
+        "demo": "https://arfurniture.demo.com"
+      }
+    }
+  ]
+}
