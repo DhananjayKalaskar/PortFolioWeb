@@ -352,7 +352,7 @@ function AboutSection() {
             >
               <Image
                 src="/placeholder.svg?height=400&width=400"
-                alt="Alex working with VR"
+                alt="Dhananjay working with VR"
                 width={400}
                 height={400}
                 className="rounded-lg"
@@ -371,7 +371,7 @@ function AboutSection() {
                 animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                 transition={{ duration: 0.6, delay: 0.6 }}
               >
-                With over 6 years of experience in game development and VR technology, I specialize in creating
+                With over 3 years of experience in game development and VR technology, I specialize in creating
                 immersive experiences that push the boundaries of interactive entertainment.
               </motion.p>
 
@@ -381,7 +381,7 @@ function AboutSection() {
                 animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                 transition={{ duration: 0.6, delay: 0.8 }}
               >
-                My expertise spans across Unity 3D development, C# programming, shader development, and VR/AR
+                My expertise spans across Unity 3D development, C# programming and VR/AR
                 implementation. I'm passionate about creating games that not only entertain but also inspire and educate
                 players.
               </motion.p>
@@ -396,12 +396,12 @@ function AboutSection() {
                 <div className="grid grid-cols-2 gap-4">
                   <SkillCategory
                     title="Development"
-                    skills={["Unity 3D", "C# Programming", "Shader Development", "Game Physics"]}
+                    skills={["Unity 3D", "C# Programming", "VR/AR Development"]}
                     delay={1.2}
                   />
                   <SkillCategory
                     title="Platforms"
-                    skills={["VR (Oculus, HTC Vive)", "AR (ARCore, ARKit)", "Mobile (iOS, Android)", "PC & Console"]}
+                    skills={["VR (Oculus,Pico 4)", "AR (ARCore, ARKit)", "Mobile (iOS, Android)"]}
                     delay={1.4}
                   />
                 </div>
@@ -483,7 +483,7 @@ function ContactSection() {
               whileHover={{ scale: 1.05, color: "#a855f7" }}
             >
               <MapPin className="h-5 w-5 text-purple-400" />
-              <span>San Francisco, CA</span>
+              <span>Amravati, MH</span>
 
             </motion.div>
             <a href="mailto:kalaskard123@gmail.com" target="_blank" rel="noopener noreferrer">

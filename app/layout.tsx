@@ -8,9 +8,9 @@ import { ScrollProgress } from "@/components/scroll-progress"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Alex Chen - VR/Game Developer Portfolio",
+  title: "Dhananjay Kalaskar - VR/Game Developer Portfolio",
   description:
-    "Portfolio of Alex Chen, a VR and Game Developer specializing in Unity 3D development and immersive experiences.",
+    "Portfolio of Dhananjay Kalaskar, a VR and Game Developer specializing in Unity 3D development and immersive experiences.",
     generator: 'v0.dev'
 }
 
